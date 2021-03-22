@@ -11,6 +11,12 @@
 		953A258225CBC4F50052DF80 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953A258125CBC4F50052DF80 /* ContentView.swift */; };
 		953A258425CBC4FA0052DF80 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 953A258325CBC4FA0052DF80 /* Assets.xcassets */; };
 		953A258725CBC4FA0052DF80 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 953A258625CBC4FA0052DF80 /* Preview Assets.xcassets */; };
+		953A259025CBC5A10052DF80 /* Circles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953A258F25CBC5A10052DF80 /* Circles.swift */; };
+		953D87E225CD02C2002E4591 /* MyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953D87E125CD02C2002E4591 /* MyButton.swift */; };
+		953E06E925CBCDFA0075EFDC /* RedCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953E06E825CBCDFA0075EFDC /* RedCircle.swift */; };
+		953E06EC25CBCE3C0075EFDC /* YellowCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953E06EB25CBCE3C0075EFDC /* YellowCircle.swift */; };
+		953E06EF25CBCE560075EFDC /* GreenCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 953E06EE25CBCE560075EFDC /* GreenCircle.swift */; };
+		95C9E29E25CBF62D00B2C8DF /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95C9E29D25CBF62D00B2C8DF /* StartView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +26,12 @@
 		953A258325CBC4FA0052DF80 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		953A258625CBC4FA0052DF80 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		953A258825CBC4FA0052DF80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		953A258F25CBC5A10052DF80 /* Circles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Circles.swift; sourceTree = "<group>"; };
+		953D87E125CD02C2002E4591 /* MyButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyButton.swift; sourceTree = "<group>"; };
+		953E06E825CBCDFA0075EFDC /* RedCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedCircle.swift; sourceTree = "<group>"; };
+		953E06EB25CBCE3C0075EFDC /* YellowCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YellowCircle.swift; sourceTree = "<group>"; };
+		953E06EE25CBCE560075EFDC /* GreenCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreenCircle.swift; sourceTree = "<group>"; };
+		95C9E29D25CBF62D00B2C8DF /* StartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +66,12 @@
 			children = (
 				953A257F25CBC4F50052DF80 /* HomeWork1App.swift */,
 				953A258125CBC4F50052DF80 /* ContentView.swift */,
+				953D87E125CD02C2002E4591 /* MyButton.swift */,
+				953E06E825CBCDFA0075EFDC /* RedCircle.swift */,
+				95C9E29D25CBF62D00B2C8DF /* StartView.swift */,
+				953E06EB25CBCE3C0075EFDC /* YellowCircle.swift */,
+				953E06EE25CBCE560075EFDC /* GreenCircle.swift */,
+				953A258F25CBC5A10052DF80 /* Circles.swift */,
 				953A258325CBC4FA0052DF80 /* Assets.xcassets */,
 				953A258825CBC4FA0052DF80 /* Info.plist */,
 				953A258525CBC4FA0052DF80 /* Preview Content */,
@@ -138,8 +156,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				953E06EC25CBCE3C0075EFDC /* YellowCircle.swift in Sources */,
 				953A258225CBC4F50052DF80 /* ContentView.swift in Sources */,
 				953A258025CBC4F50052DF80 /* HomeWork1App.swift in Sources */,
+				953D87E225CD02C2002E4591 /* MyButton.swift in Sources */,
+				953E06EF25CBCE560075EFDC /* GreenCircle.swift in Sources */,
+				953A259025CBC5A10052DF80 /* Circles.swift in Sources */,
+				953E06E925CBCDFA0075EFDC /* RedCircle.swift in Sources */,
+				95C9E29E25CBF62D00B2C8DF /* StartView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
